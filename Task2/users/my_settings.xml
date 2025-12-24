@@ -1,0 +1,9 @@
+<clickhouse>
+    <profiles>
+        <default>
+            <max_memory_usage>6000000000</max_memory_usage>
+            <max_threads>4</max_threads>
+            <os_thread_priority>-5</os_thread_priority>
+        </default>
+    </profiles>
+</clickhouse>
